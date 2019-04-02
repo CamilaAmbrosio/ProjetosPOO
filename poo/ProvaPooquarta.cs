@@ -90,7 +90,7 @@ class Prova{
     }
     public static void ListarVeiculos(){
         Categoria[] cats = bd.GetCategorias();
-         Console.WriteLine("Categorias: ");
+         Console.WriteLine("Categoria: ");
         for (int j = 0; j < cats.Length; j++)
         {
             Categoria c = cats[j];
@@ -104,7 +104,7 @@ class Prova{
                     Veiculo b = veiculos[g];
                     if (b != null)
                     {
-                        Console.WriteLine($"Veículos: {b.GetNome()}");
+                        Console.WriteLine($"Veículo: {b.GetNome()}");
                     }
                 
                 }
@@ -122,7 +122,7 @@ class Prova{
                 Console.WriteLine($"Fabricante: {f.GetNome()} País: {f.GetPais()}");
 
                 Categoria[] cats = f.Listar();
-                Console.WriteLine("Categorias: ");
+                Console.WriteLine("Categoria: ");
                 for (int j = 0; j < cats.Length; j++)
                 {
                     Categoria c = cats[j];
@@ -136,13 +136,14 @@ class Prova{
                             Veiculo b = veiculos[g];
                             if (b != null)
                             {
-                                Console.WriteLine($"Veículos: {b.GetNome()}");
+                                Console.WriteLine($"Veículo: {b.GetNome()}");
                             }
                       }                       
                     }
                 }
                 Console.WriteLine($"Total de veículos: {total}");
                 Console.WriteLine($"O veículo de maior valor é: {f.MaiorValor().GetNome()}");
+                Console.WriteLine( );
             }            
         }
     }

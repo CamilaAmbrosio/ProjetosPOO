@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/camila/Documentos/poo/poo.csproj",
+      "projectUniqueName": "/home/camila/Documentos/ProjetosPOO/poo/poo.csproj",
       "projectName": "poo",
-      "projectPath": "/home/camila/Documentos/poo/poo.csproj",
+      "projectPath": "/home/camila/Documentos/ProjetosPOO/poo/poo.csproj",
       "packagesPath": "/home/camila/.nuget/packages/",
-      "outputPath": "/home/camila/Documentos/poo/obj/",
+      "outputPath": "/home/camila/Documentos/ProjetosPOO/poo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

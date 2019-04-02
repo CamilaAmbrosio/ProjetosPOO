@@ -9,3 +9,14 @@
 /home/camila/Documentos/poo/bin/Debug/netcoreapp2.2/poo.pdb
 /home/camila/Documentos/poo/obj/Debug/netcoreapp2.2/poo.dll
 /home/camila/Documentos/poo/obj/Debug/netcoreapp2.2/poo.pdb
+/home/camila/Documentos/ProjetosPOO/poo/bin/Debug/netcoreapp2.2/poo.deps.json
+/home/camila/Documentos/ProjetosPOO/poo/bin/Debug/netcoreapp2.2/poo.runtimeconfig.json
+/home/camila/Documentos/ProjetosPOO/poo/bin/Debug/netcoreapp2.2/poo.runtimeconfig.dev.json
+/home/camila/Documentos/ProjetosPOO/poo/bin/Debug/netcoreapp2.2/poo.dll
+/home/camila/Documentos/ProjetosPOO/poo/bin/Debug/netcoreapp2.2/poo.pdb
+/home/camila/Documentos/ProjetosPOO/poo/obj/Debug/netcoreapp2.2/poo.csprojAssemblyReference.cache
+/home/camila/Documentos/ProjetosPOO/poo/obj/Debug/netcoreapp2.2/poo.csproj.CoreCompileInputs.cache
+/home/camila/Documentos/ProjetosPOO/poo/obj/Debug/netcoreapp2.2/poo.AssemblyInfoInputs.cache
+/home/camila/Documentos/ProjetosPOO/poo/obj/Debug/netcoreapp2.2/poo.AssemblyInfo.cs
+/home/camila/Documentos/ProjetosPOO/poo/obj/Debug/netcoreapp2.2/poo.dll
+/home/camila/Documentos/ProjetosPOO/poo/obj/Debug/netcoreapp2.2/poo.pdb
